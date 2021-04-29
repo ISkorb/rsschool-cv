@@ -6,3 +6,9 @@
 
 1. [Contact email: ina.skorb@gmail.com](mailto:ina.skorb@gmail.com)
 2. [LinkedIn profile](https://www.linkedin.com/in/ina-skorb-b60b0991)
+3. Experience
+    * C#
+    * .NET
+    * Xamarin
+4. Education BSUIR, Faculty of Radioengineering and Electronics
+5. English B1
